@@ -1,0 +1,9 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="48" height="48" viewBox="0 0 48 48">
+  <g id="icon_48px_close_M" data-name="icon/48px/close_M" transform="translate(-5279 182)">
+    <rect id="area" width="48" height="48" transform="translate(5279 -182)" fill="red" opacity="0"/>
+    <g id="x" transform="translate(5283 -178)">
+      <line id="선_1" data-name="선 1" x1="40" y2="40" transform="translate(0 0)" fill="none" stroke="#1a1a1a" stroke-linecap="round" stroke-linejoin="round" stroke-width="4"/>
+      <line id="선_2" data-name="선 2" x2="40" y2="40" transform="translate(0 0)" fill="none" stroke="#1a1a1a" stroke-linecap="round" stroke-linejoin="round" stroke-width="4"/>
+    </g>
+  </g>
+</svg>

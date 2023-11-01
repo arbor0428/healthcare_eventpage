@@ -1,0 +1,9 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="24.243" height="24.243" viewBox="0 0 24.243 24.243">
+  <g id="icon_24px_close_PC" data-name="icon/24px/close_PC" transform="translate(-5278.879 182.121)">
+    <rect id="area" width="24" height="24" transform="translate(5279 -182)" fill="red" opacity="0"/>
+    <g id="x" transform="translate(5275 -186)">
+      <line id="선_1" data-name="선 1" x1="20" y2="20" transform="translate(6 6)" fill="none" stroke="#1a1a1a" stroke-linecap="round" stroke-linejoin="round" stroke-width="3"/>
+      <line id="선_2" data-name="선 2" x2="20" y2="20" transform="translate(6 6)" fill="none" stroke="#1a1a1a" stroke-linecap="round" stroke-linejoin="round" stroke-width="3"/>
+    </g>
+  </g>
+</svg>
